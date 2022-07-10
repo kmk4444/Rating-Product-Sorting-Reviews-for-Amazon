@@ -7,3 +7,16 @@ One of the most significant problems is that estimating point is given by custom
 After solving two main problem, the benefit of e-commerce companies could highly rise.
 
 This dataset, which includes Amazon product data, includes product categories and various metadata. The dataset was analyzed by means of various methods.
+
+Variables:
+reviewerID: User ID
+asin: Product ID
+reviewerName: User Name
+helpful: degree of useful evaluation
+reviewText: evaluation
+summary: summary of evaluation
+unixReviewTime: evaluation time
+reviewTime: evaluation time Raw
+day_diff: the number of day after evaluation
+helpful_yes: the number of helpful evaluation
+total_vote: total number of evaluation
